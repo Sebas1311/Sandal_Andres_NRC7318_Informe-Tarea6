@@ -15,7 +15,7 @@
 
   2.1.- Objetivo general:
   
-Determinar los pasos que contienen cada uno de los tres los métodos de resolución de circuitos, por medio del uso de las ecuaciones simultaneas, mismas que nos permitirán hallar cantidades desconocidas del circuito en cuestión.
+Determinar los pasos que
         
   2.2.- Objetivo específicos:
   
