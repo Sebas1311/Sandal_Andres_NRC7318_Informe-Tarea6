@@ -15,13 +15,13 @@
 
   2.1.- Objetivo general:
   
-Determinar los pasos que
+Determinar las características de las corrientes y voltajes alternos ya sea en circuitos en serio y/o paralelo y su vez en los circuitos CD y CA para poder aplicarlos en la resolución, simplificación y hallazgo de varibles en un circuito.
         
   2.2.- Objetivo específicos:
   
-        - Analizar tres métodos de resolver ecuaciones simultáneas para determinar cantidades desconocidas en un circuito.
-        - Explicar los principios de un campo magnético para describir el principio de operación de varios tipos de dispositivos electromagnéticos. 
-        - Analizar el principio de inducción electromagnética con el fin de describir algunas aplicaciones de la inducción electromagnética.
+        - Identificar la forma y lo que genera una onda sinusoidal para determinar los diversos valores de voltaje y corriente de dicha onda seno.
+        - Determinar el comportamiento de voltajes, corrientes y resistencias en los circuitos CD y CA.
+        - Describir la composición y funcionamiento de un capacitor conjuntamente con su comportamiento en un circuito en serie, paralelo, CD y CA.
         
 3.- Marco teórico
 
@@ -36,6 +36,8 @@ Link del mapa mental: https://www.canva.com/design/DAFGJiEKJ_4/iDwx7Z8FOQPBF4vth
 5.- Video
 
 6.- Conclusiones
+
+- Se pudo observar que en la aplicación de circuito el proceso de cómo usar un capacitor para acoplar voltajes de señales hacia y a partir de un amplificador. Además se localizo fallas en el amplificador mediante maneras de onda vistas en un osciloscopio 
 
 7.- Bibliografía
 
