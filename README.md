@@ -41,8 +41,6 @@ Link del mapa mental: https://www.canva.com/design/DAFGJiEKJ_4/iDwx7Z8FOQPBF4vth
 
 - Se ha podido determinar varias de las funciones del osciloscopio tales como medir la elevación de las señales observadas en la pantalla, se dirige manipulando los controles del bloque vertical. El ancho de las señales observadas en la pantalla, se controlan manipulando los controles del bloque horizontal. El equilibrio de la imagen en la pantalla se consigue manipulando los controles del bloque de sincronismo. 
 
-- La  CA  una  vez  generada  y  distribuida  a  grandes  distancia,  es  disminuida  en  su diferencia  de  potencial  y  aumentada  su  corriente,  lo que  permite  su  uso  de la vivienda, comercial e industrial. En  la  actualidad,  casi  toda  la  corriente  doméstica,  comercial  e  industrial,  es  corriente alterna  (CA),  esto  es,  corriente  que  invierte  sentido  constante  y  regularmente  muchas veces por segundo. 
-
 - Se pudo observar que en la aplicación de circuito el proceso de cómo usar un capacitor para acoplar voltajes de señales hacia y a partir de un amplificador. Además se localizo fallas en el amplificador mediante maneras de onda vistas en un osciloscopio 
 
 7.- Bibliografía
